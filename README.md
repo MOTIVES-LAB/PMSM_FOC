@@ -1,7 +1,8 @@
 # PMSM_FOC
 This repository contains a simulation model demonstrating **vector control of a permanent magnet synchronous motor (PMSM)**, based on **Chapter 12** of the textbook:
 
-> 袁新枚, 范涛. *车用电机原理及应用* [M]. 第2版. 机械工业出版社, 2024.
+> 袁新枚, 范涛. *车用电机原理及应用* [M]. 第2版. 机械工业出版社, 2024.  
+> Yuan Xinmei, Fan Tao. *Principles and Applications of Automotive Electric Machines* (2nd Edition), China Machine Press, 2024.
 
 The model is implemented in **MATLAB/Simulink**, and is intended for **educational and research purposes**, especially for those studying automotive electric drive systems.
 
@@ -48,7 +49,8 @@ The model is implemented in **MATLAB/Simulink**, and is intended for **education
 
 This model corresponds to the practical example in:
 
-> 袁新枚, 范涛. *车用电机原理及应用* [M]. 第2版. 机械工业出版社, 2024.
+> 袁新枚, 范涛. *车用电机原理及应用* [M]. 第2版. 机械工业出版社, 2024.  
+> Yuan Xinmei, Fan Tao. *Principles and Applications of Automotive Electric Machines* (2nd Edition), China Machine Press, 2024.
 
 For theoretical background and control principle derivations, please refer to **Chapter 12** of the textbook.
 
